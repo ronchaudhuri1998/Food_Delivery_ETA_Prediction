@@ -1,4 +1,4 @@
-# 🍽️ Predicting Estimated Delivery Time for Food Orders  
+#  Predicting Estimated Delivery Time for Food Orders  
 
 ---
 
